@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntegraBrasilApi", "IntegraBrasilApi.csproj", "{F2F91755-AA22-4C20-B533-58CEF6D126BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2F91755-AA22-4C20-B533-58CEF6D126BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2F91755-AA22-4C20-B533-58CEF6D126BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2F91755-AA22-4C20-B533-58CEF6D126BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2F91755-AA22-4C20-B533-58CEF6D126BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F151A43-EC5B-46F9-A1B6-0E7D412AEFE4}
+	EndGlobalSection
+EndGlobal
